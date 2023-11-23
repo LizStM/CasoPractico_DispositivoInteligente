@@ -2,7 +2,7 @@
 
 ![Visualización final de los datos analizados](https://github.com/LizStM/CasoPractico_DispositivoInteligente/assets/86332249/7b74be6d-8c26-4d21-9881-083cdf447bcf)
 
-Puedes explorar mejor la visualización [en mi cuenta de Tableau](https://public.tableau.com/app/profile/lizbeth.santiago/viz/Hbitosdeactividadpordiayhoras/Dashboard1)
+Puedes explorar mejor la visualización final de los datos analizados en [mi cuenta de Tableau](https://public.tableau.com/app/profile/lizbeth.santiago/viz/Hbitosdeactividadpordiayhoras/Dashboard1)
 
 ***
 
@@ -29,7 +29,7 @@ Datos de tercera fuente adquiridos a través de la cuenta Mobius en Kaggle, con 
 
 
 ## Resumen del análisis realizado.
-El análisis se realizó usando los registros de los 33 usuarios para los datos de intensidad de actividad y cantidad de pasos. En el caso de minutos de sueño se usaron los datos disponibles para 24 usuarios. Se han explorado los datos por día y por hora. Primero, se obtuvieron las medidas de actividad para cada individuo, con el objetivo de suavizar un posible día inusual de algún usuario. Las medidas calculadas fueron:
+El análisis se realizó usando SQL y los registros de los 33 usuarios para los datos de intensidad de actividad y cantidad de pasos. En el caso de minutos de sueño se usaron los datos disponibles para 24 usuarios. Se han explorado los datos por día y por hora. Primero, se obtuvieron las medidas de actividad para cada individuo, con el objetivo de suavizar un posible día inusual de algún usuario. Las medidas calculadas fueron:
 
 * Promedio de minutos de actividad para cada intensidad.
 *	Mínimo de minutos de actividad para cada intensidad.
