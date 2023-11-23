@@ -1,8 +1,8 @@
 # Caso práctico de análisis de datos de Bellabeat
 
-![Visualización final de los datos analizados](https://github.com/LizStM/CasoPractico_DispositivoInteligente/assets/86332249/7b74be6d-8c26-4d21-9881-083cdf447bcf)
+![visualización de los datos analizados](https://github.com/LizStM/CasoPractico_DispositivoInteligente/assets/86332249/be2dfb90-8b0b-4bd9-9980-a5c0756a2940)
 
-Puedes explorar mejor la visualización final de los datos analizados en [mi cuenta de Tableau](https://public.tableau.com/app/profile/lizbeth.santiago/viz/Hbitosdeactividadpordiayhoras/Dashboard1)
+Puedes explorar mejor la visualización de los datos analizados en [mi cuenta de Tableau](https://public.tableau.com/app/profile/lizbeth.santiago/viz/Hbitosdeactividadpordiayhoras/Dashboard1)
 
 ***
 
