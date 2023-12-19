@@ -1,6 +1,6 @@
 # Caso práctico de análisis de datos de Bellabeat
 
-![visualización de los datos analizados](https://github.com/LizStM/CasoPractico_DispositivoInteligente/assets/86332249/be2dfb90-8b0b-4bd9-9980-a5c0756a2940)
+![visualización de los datos analizados](https://github.com/LizStM/CasoPractico_DispositivoInteligente/assets/86332249/739771d5-bab6-44c8-9944-8fbba9833cf8)
 
 Puedes explorar mejor la visualización de los datos analizados en [mi cuenta de Tableau](https://public.tableau.com/app/profile/lizbeth.santiago/viz/Hbitosdeactividadpordiayhoras/Dashboard1)
 
@@ -17,7 +17,7 @@ Productos Bellabeat de enfoque en este análisis:
 Explorar los hábitos de los usuarios e identificar las tendencias de uso de dispositivos inteligentes a través de la información sobre el uso de dispositivos Fitbit. Con la finalidad de mejorar las estrategias de marketing y el servicio brindado por Bellabeat.
 
 ## Descripción de la fuente de datos.	
-Datos de tercera fuente adquiridos a través de la cuenta Mobius en Kaggle, con licencia CCO: dominio público. Contienen los registros de 33 usuarios de Fitbit que han brindado su consentimiento para el envío de datos de seguimiento personal. Incluyen el rendimiento de la actividad física en registros por día y hora. Además de incluir los minutos de sueño diario. Registros comprendidos en un periodo del 12 de abril al 12 de mayo del 2016.
+Datos de tercera fuente adquiridos a través de la cuenta Mobius en Kaggle [(link)](https://www.kaggle.com/datasets/arashnic/fitbit), con licencia CCO: dominio público. Contienen los registros de 33 usuarios de Fitbit que han brindado su consentimiento para el envío de datos de seguimiento personal. Incluyen el rendimiento de la actividad física en registros por día y hora. Además de incluir los minutos de sueño diario. Registros comprendidos en un periodo del 12 de abril al 12 de mayo del 2016.
 
 ## Registro de cambios en el procesamiento de los datos.
 
